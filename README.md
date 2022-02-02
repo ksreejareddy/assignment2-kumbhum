@@ -7,8 +7,8 @@ The Golconda region was renowned for its diamonds,qutb shahi tombs,Lumbni park, 
 ***
 #### Different varities of biryani
 1. Hyderabadi biryani.
-    i.The Pakki Hyderabadi Biryani involves cooking of basmatic rice and meat separately.
-    ii.kachi Hyderabadi Biryani is made from the raw marinated meat (chicken or lamb) placed between the layers of basmati rice infused with saffron, onions and dried fruits, both are slow-cooked in a dough-sealed earthen pot over charcoal fire, which results in rich, aromatic and punchy biryani.
+    1. The Pakki Hyderabadi Biryani involves cooking of basmatic rice and meat separately.
+    2. kachi Hyderabadi Biryani is made from the raw marinated meat (chicken or lamb) placed between the layers of basmati rice infused with saffron, onions and dried fruits, both are slow-cooked in a dough-sealed earthen pot over charcoal fire, which results in rich, aromatic and punchy biryani.
 2. Lucknowi Biryani. 
 3. Calcutta Biryani.
 4. Thalassery Biryani. 
@@ -16,14 +16,4 @@ The Golconda region was renowned for its diamonds,qutb shahi tombs,Lumbni park, 
 6. Sindhi Biryani. 
 7. Tehari Biryani.
 Best place for hyderabadi biryani is Bawarchi its in RTC X road, it is situated half an hour drive away from shamshabad airport which is known as Rajiv Gandhi international airport.
-The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle.  1. Hyderabadi biryani.
-    i.The Pakki Hyderabadi Biryani involves cooking of basmatic rice and meat separately.
-    ii.kachi Hyderabadi Biryani is made from the raw marinated meat (chicken or lamb) placed between the layers of basmati rice infused with saffron, onions and dried fruits, both are slow-cooked in a dough-sealed earthen pot over charcoal fire, which results in rich, aromatic and punchy biryani.
-2. Lucknowi Biryani. 
-3. Calcutta Biryani.
-4. Thalassery Biryani. 
-5. Bombay Biryani. 
-6. Sindhi Biryani. 
-7. Tehari Biryani.
-Best place for hyderabadi biryani is Bawarchi its in RTC X road, it is situated half an hour drive away from shamshabad airport which is known as Rajiv Gandhi international airport.
-The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle.   
+The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle.  1. 
