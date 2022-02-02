@@ -28,3 +28,9 @@ The below list shows sports/Actitvites along with its location and price.
 | Badminton | Court | $25 |
 | Painting | Hall | $15 |
 | Cricket | stadium | $40 |
+
+***
+### Pithy quotes 
+>“You must be the change you wish to see in the world.” — -*Gandhi*. 
+
+>“All our dreams can come true, if we have the courage to pursue them” – *Walt Disney*.
