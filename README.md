@@ -16,4 +16,4 @@ The Golconda region was renowned for its diamonds,qutb shahi tombs,Lumbni park, 
 6. Sindhi Biryani. 
 7. Tehari Biryani.
 Best place for hyderabadi biryani is Bawarchi its in RTC X road, it is situated half an hour drive away from shamshabad airport which is known as Rajiv Gandhi international airport.
-The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle.  1. 
+The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle. 
