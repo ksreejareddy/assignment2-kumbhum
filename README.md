@@ -19,3 +19,12 @@ Best place for hyderabadi biryani is Bawarchi its in RTC X road, it is situated 
 The cheapest and fastest way to get from Airport to RTC X Roads is to drive by car or motor vehicle. 
 
 [About me](ABOUTME.md)
+***
+### List of Sports/Activities
+The below list shows sports/Actitvites along with its location and price.
+| Sport/Activity | Location| price |
+| --- | --- | --- |
+| Yoga | park | $20 |
+| Badminton | Court | $25 |
+| Painting | Hall | $15 |
+| Cricket | stadium | $40 |
