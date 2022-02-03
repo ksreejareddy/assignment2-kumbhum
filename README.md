@@ -34,3 +34,18 @@ The below list shows sports/Actitvites along with its location and price.
 >“You must be the change you wish to see in the world.” — -*Gandhi*. 
 
 >“All our dreams can come true, if we have the courage to pursue them” – *Walt Disney*.
+***
+### code fencing
+> In mathematics and computer programming, exponentiating by squaring is a general method for fast computation of large positive integer powers of a number, or more generally of an element of a semigroup, like a polynomial or a square matrix. Some variants are commonly referred to as square-and-multiply algorithms or binary exponentiation. These can be of quite general use, for example in modular arithmetic or powering of matrices. For semigroups for which additive notation is commonly used, like elliptic curves used in cryptography, this method is also referred to as double-and-add.<https://en.wikipedia.org/wiki/Exponentiation_by_squaring>
+```
+long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+}
+```
+<https://cp-algorithms.com/algebra/binary-exp.html>
